@@ -1,0 +1,54 @@
+[submodule "sites/all/modules/admin_menu"]
+	path = sites/all/modules/admin_menu
+	url = http://git.drupal.org/project/admin_menu.git
+[submodule "sites/all/modules/rules"]
+	path = sites/all/modules/rules
+	url = http://git.drupal.org/project/rules.git
+[submodule "sites/all/modules/views"]
+	path = sites/all/modules/views
+	url = http://git.drupal.org/project/views.git
+[submodule "sites/all/modules/ctools"]
+	path = sites/all/modules/ctools
+	url = http://git.drupal.org/project/ctools.git
+[submodule "sites/all/modules/token"]
+	path = sites/all/modules/token
+	url = http://git.drupal.org/project/token.git
+[submodule "sites/all/modules/devel"]
+	path = sites/all/modules/devel
+	url = http://git.drupal.org/project/devel.git
+[submodule "sites/all/modules/entity"]
+	path = sites/all/modules/entity
+	url = http://git.drupal.org/project/entity.git
+[submodule "sites/all/modules/jquery_update"]
+	path = sites/all/modules/jquery_update
+	url = http://git.drupal.org/project/jquery_update.git
+[submodule "sites/all/modules/l10n_update"]
+	path = sites/all/modules/l10n_update
+	url = http://git.drupal.org/project/l10n_update.git
+[submodule "sites/all/modules/logintoboggan"]
+	path = sites/all/modules/logintoboggan
+	url = http://git.drupal.org/project/logintoboggan.git
+[submodule "sites/all/modules/pathauto"]
+	path = sites/all/modules/pathauto
+	url = http://git.drupal.org/project/pathauto.git
+[submodule "sites/all/modules/tac_lite"]
+	path = sites/all/modules/tac_lite
+	url = http://git.drupal.org/project/tac_lite.git
+[submodule "sites/all/modules/themekey"]
+	path = sites/all/modules/themekey
+	url = http://git.drupal.org/project/themekey.git
+[submodule "sites/all/modules/variable"]
+	path = sites/all/modules/variable
+	url = http://git.drupal.org/project/variable.git
+[submodule "sites/all/modules/video_embed_field"]
+	path = sites/all/modules/video_embed_field
+	url = http://git.drupal.org/project/video_embed_field.git
+[submodule "sites/all/modules/views_bulk_operations"]
+	path = sites/all/modules/views_bulk_operations
+	url = http://git.drupal.org/project/views_bulk_operations.git
+[submodule "sites/all/modules/wysiwyg"]
+	path = sites/all/modules/wysiwyg
+	url = http://git.drupal.org/project/wysiwyg.git
+[submodule "sites/all/modules/context"]
+	path = sites/all/modules/context
+	url = http://git.drupal.org/project/context.git
